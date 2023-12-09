@@ -1,0 +1,6 @@
+venv/
+data/zim_data.csv
+data/zim_data.csv.7z
+out/output_plot.png
+out/your_report.html
+
